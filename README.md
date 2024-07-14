@@ -1,2 +1,2 @@
-# EmployeeDjango
-It contains backend  for getting data from mysql
+# Backend design :
+It contains backend  in django  for getting data from mysql
